@@ -746,46 +746,46 @@
                     }),
                   ],
                 }),
-                (0, i.jsx)(d.k, {
-                  children: (0, i.jsx)(o.O, {
-                    href: "/",
-                    "aria-current": "page",
-                    children: (0, i.jsx)("p", {
-                      className: "text-white font-interB text-left text-[1rem]",
-                      children: "Explore",
-                    }),
-                  }),
-                }),
-                (0, i.jsx)(d.k, {
-                  children: (0, i.jsx)(o.O, {
-                    href: "/faucet",
-                    "aria-current": "page",
-                    children: (0, i.jsx)("p", {
-                      className: "text-white font-interB text-left text-[1rem]",
-                      children: "Faucet",
-                    }),
-                  }),
-                }),
-                (0, i.jsx)(d.k, {
-                  children: (0, i.jsx)(o.O, {
-                    href: "/developer-gitbook",
-                    "aria-current": "page",
-                    children: (0, i.jsx)("p", {
-                      className: "text-white font-interB text-left text-[1rem]",
-                      children: "Developer Gitbook",
-                    }),
-                  }),
-                }),
-                (0, i.jsx)(d.k, {
-                  children: (0, i.jsx)(o.O, {
-                    href: "/bridge",
-                    "aria-current": "page",
-                    children: (0, i.jsx)("p", {
-                      className: "text-white font-interB text-left text-[1rem]",
-                      children: "Bridge",
-                    }),
-                  }),
-                }),
+                // (0, i.jsx)(d.k, {
+                //   children: (0, i.jsx)(o.O, {
+                //     href: "/",
+                //     "aria-current": "page",
+                //     children: (0, i.jsx)("p", {
+                //       className: "text-white font-interB text-left text-[1rem]",
+                //       children: "Explore",
+                //     }),
+                //   }),
+                // }),
+                // (0, i.jsx)(d.k, {
+                //   children: (0, i.jsx)(o.O, {
+                //     href: "/faucet",
+                //     "aria-current": "page",
+                //     children: (0, i.jsx)("p", {
+                //       className: "text-white font-interB text-left text-[1rem]",
+                //       children: "Faucet",
+                //     }),
+                //   }),
+                // }),
+                // (0, i.jsx)(d.k, {
+                //   children: (0, i.jsx)(o.O, {
+                //     href: "/developer-gitbook",
+                //     "aria-current": "page",
+                //     children: (0, i.jsx)("p", {
+                //       className: "text-white font-interB text-left text-[1rem]",
+                //       children: "Developer Gitbook",
+                //     }),
+                //   }),
+                // }),
+                // (0, i.jsx)(d.k, {
+                //   children: (0, i.jsx)(o.O, {
+                //     href: "/bridge",
+                //     "aria-current": "page",
+                //     children: (0, i.jsx)("p", {
+                //       className: "text-white font-interB text-left text-[1rem]",
+                //       children: "Bridge",
+                //     }),
+                //   }),
+                // }),
                 (0, i.jsxs)(h.F, {
                   children: [
                     (0, i.jsx)(d.k, {
