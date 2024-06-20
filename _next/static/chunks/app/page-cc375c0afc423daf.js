@@ -946,7 +946,7 @@
                           onClick: () => {
                             e.push("https://btclayer.gitbook.io/btclayer");
                           },
-                          children: "Developer Gitbook",
+                          children: "Gitbook",
                         }),
                         (0, r.jsx)("p", {
                           className:
