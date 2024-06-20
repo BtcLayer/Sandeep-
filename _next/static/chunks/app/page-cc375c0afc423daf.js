@@ -936,7 +936,7 @@
                           className:
                             "text-white font-interB text-[16px] cursor-pointer",
                           onClick: () => {
-                            e.push("https://faucet.btclayer.org");
+                            e.push("https://faucet.btcscan.app");
                           },
                           children: "Faucet",
                         }),
@@ -944,7 +944,7 @@
                           className:
                             "text-white font-interB text-[16px] cursor-pointer",
                           onClick: () => {
-                            e.push("https://docs.btclayer.org");
+                            e.push("https://btclayer.gitbook.io/btclayer");
                           },
                           children: "Developer Gitbook",
                         }),
@@ -959,11 +959,17 @@
                         (0, r.jsx)("p", {
                           className:
                             "text-white font-interB text-[16px] cursor-pointer",
+                          onClick: () => {
+                            e.push("https://btcscan.app/");
+                          },
                           children: "Explore",
                         }),
                         (0, r.jsx)("p", {
                           className:
                             "text-white font-interB text-[16px] cursor-pointer",
+                          onClick: () => {
+                            e.push("/get-started");
+                          },
                           children: "Build",
                         }),
                       ],
